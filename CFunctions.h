@@ -2,10 +2,10 @@
 *
 *  Multi Theft Auto: San Andreas
 *
-*  Shell module which can execute commands.
+*  Streamer module which can Stream Objects <3.
 *
 *  Developers:
-*  x86 <sebasdevelopment@gmx.com>
+*  Jaber
 *
 *********************************************************/
 
